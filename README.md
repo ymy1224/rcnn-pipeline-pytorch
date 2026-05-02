@@ -12,7 +12,6 @@
 - ❗ This is a **PyTorch-based implementation for pipeline understanding only**
 - ❗ **No training has been performed**
 - ❗ **The correctness and practical usability are NOT guaranteed**
-- ❗ This code should NOT be used for production or benchmarking
 
 ---
 
